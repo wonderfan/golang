@@ -11,3 +11,7 @@
 ### Install kubernetes
 
 - [kubernetes](https://github.com/kubernetes/kubernetes)
+
+### Use coreos
+
+- [coreos](https://github.com/coreos)
