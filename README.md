@@ -6,3 +6,8 @@ Container and Cluster Management
 
 - use fabric8s as client 
 - maven docker plugin
+
+
+### Python Version
+
+- docker compose
