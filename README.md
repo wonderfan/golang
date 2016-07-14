@@ -1,6 +1,12 @@
 # golang
 Container and Cluster Management
 
+### Key Concepts
+
+- controll group
+- namespace
+- libcontainer
+- lxc
 
 ### Java Version
 
