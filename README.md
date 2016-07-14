@@ -3,7 +3,7 @@ Container and Cluster Management
 
 ### Key Concepts
 
-- controll group
+- control group
 - namespace
 - libcontainer
 - lxc
