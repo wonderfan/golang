@@ -1,7 +1,6 @@
 package main
 
 
-def func main(){
-
+func main(){
 
 }
