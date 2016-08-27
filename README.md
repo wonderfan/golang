@@ -22,3 +22,6 @@ Container and Cluster Management
 ### Languge
 
 - struct type
+- map type
+- array type
+- interface type
