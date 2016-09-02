@@ -25,3 +25,4 @@ Container and Cluster Management
 - map type
 - array type
 - interface type
+- [struct embedding](https://github.com/luciotato/golang-notes/blob/master/OOP.md)
