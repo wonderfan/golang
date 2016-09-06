@@ -27,4 +27,5 @@ Container and Cluster Management
 - interface type
 - [struct embedding](https://github.com/luciotato/golang-notes/blob/master/OOP.md)
 - http: server,mux and handler
-- go routine and defer
+- defer
+- goroutine
