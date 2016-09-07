@@ -17,6 +17,8 @@ Container and Cluster Management
 ### Python Version
 
 - docker compose
+- kubernetes
+- mesos
 
 
 ### Languge
