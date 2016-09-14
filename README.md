@@ -21,8 +21,9 @@ Container and Cluster Management
 - mesos
 
 
-### Languge
+### Languge and Key Point
 
+- [golang/go](https://github.com/golang/go)
 - struct type
 - map type
 - array type
