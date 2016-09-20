@@ -5,3 +5,4 @@
 - kubelet and api
 - three runtimes: docker,rkt and remote
 - cloud providers
+- container runtime and manager
