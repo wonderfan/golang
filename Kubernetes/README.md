@@ -6,3 +6,5 @@
 - three runtimes: docker,rkt and remote
 - cloud providers
 - container runtime and manager
+- status manager
+- pod manager
