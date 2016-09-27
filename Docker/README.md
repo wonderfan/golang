@@ -4,3 +4,7 @@
 - Network driver
 - Volume management
 
+###  Docker  CLI
+-  docker  info
+
+
