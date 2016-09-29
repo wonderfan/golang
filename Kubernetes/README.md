@@ -9,5 +9,6 @@
 - status manager
 - pod manager
 - rocket container runtime
--  kubelet heartbeat to notify master
--  client  cache and  list
+- kubelet heartbeat to notify master
+- client cache and list
+-  pod  phase and  controller  manager
