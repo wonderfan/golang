@@ -11,4 +11,5 @@
 - rocket container runtime
 - kubelet heartbeat to notify master
 - client cache and list
--  pod  phase and  controller  manager
+- pod phase and controller manager
+- status manager
