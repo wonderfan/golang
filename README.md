@@ -19,7 +19,6 @@ Container and Cluster Management
 - docker compose
 - kubernetes
 - mesos
-- 
 
 
 ### Languge and Key Point
