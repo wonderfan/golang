@@ -13,3 +13,4 @@
 - client cache and list
 - pod phase and controller manager
 - status manager
+- controller manager
