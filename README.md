@@ -33,3 +33,4 @@ Container and Cluster Management
 - defer
 - goroutine
 - directory name, file name and package name
+- channel type
