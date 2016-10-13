@@ -14,6 +14,7 @@
 - pod phase and controller manager
 - status manager
 - controller manager
+- third party resource model
 
 ### Package manager
 
