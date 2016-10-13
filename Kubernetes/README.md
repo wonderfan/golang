@@ -14,3 +14,7 @@
 - pod phase and controller manager
 - status manager
 - controller manager
+
+### Package manager
+
+- [helm-classic](https://github.com/helm/helm-classic)
