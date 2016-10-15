@@ -20,3 +20,4 @@
 
 - [helm-classic](https://github.com/helm/helm-classic)
 - [bitnami](https://github.com/bitnami/charts)
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
