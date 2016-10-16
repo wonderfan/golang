@@ -15,6 +15,7 @@
 - status manager
 - controller manager
 - third party resource model
+- annotation
 
 ### Package manager
 
