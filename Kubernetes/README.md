@@ -16,6 +16,7 @@
 - controller manager
 - third party resource model
 - annotation
+- charts
 
 ### Package manager
 
