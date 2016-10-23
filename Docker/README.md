@@ -5,7 +5,8 @@
 - Volume management
 
 ### Docker  CLI
--  docker  info
+- docker  info
+- docker build
 
 ### Docker Compose
 
