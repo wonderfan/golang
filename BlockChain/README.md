@@ -1,6 +1,7 @@
 ### The Architecture of BlockChain
 
 - CA
+- Root Peer
 - Peers
 
 ### Deployment
