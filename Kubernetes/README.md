@@ -17,6 +17,7 @@
 - third party resource model
 - annotation
 - charts
+- volumen management
 
 ### Package manager
 
