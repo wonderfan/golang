@@ -18,6 +18,7 @@
 - annotation
 - charts
 - volumen management
+- use default service to interact with kubernetes api 
 
 ### Package manager
 
