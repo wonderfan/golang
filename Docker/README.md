@@ -3,6 +3,7 @@
 - Storage driver
 - Network driver
 - Volume management
+- Image Store
 
 ### Docker  CLI
 - docker  info
