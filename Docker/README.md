@@ -4,6 +4,9 @@
 - Network driver
 - Volume management
 - Image Store
+- Union File System
+- Image Layer
+- Image and Container relationship
 
 ### Docker  CLI
 - docker  info
