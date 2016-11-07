@@ -3,6 +3,7 @@
 - CA
 - Root Peer
 - Peers
+- API and SDK
 
 ### Deployment
 
