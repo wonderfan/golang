@@ -4,6 +4,7 @@
 - Root Peer
 - Peers
 - API and SDK
+- Enable REST API
 
 ### Deployment
 
