@@ -24,7 +24,7 @@ Container and Cluster Management
 ### Languge and Key Point
 
 - [golang/go](https://github.com/golang/go)
-- struct type
+- structure type
 - map type
 - array type
 - interface type
