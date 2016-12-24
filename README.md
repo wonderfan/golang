@@ -34,3 +34,4 @@ Container and Cluster Management
 - goroutine
 - directory name, file name and package name
 - channel type
+- interface,struct and struct methods
