@@ -20,6 +20,7 @@
 - volumen management
 - use default service to interact with kubernetes api 
 - generic api server as the base layer
+- legacy api and group api
 
 ### Package manager
 
