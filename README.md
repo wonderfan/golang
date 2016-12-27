@@ -36,3 +36,4 @@ Container and Cluster Management
 - channel type
 - interface,struct and struct methods
 - channel and channel buffer for data send and receive.
+- embedded type and promoted method.
