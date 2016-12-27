@@ -35,3 +35,4 @@ Container and Cluster Management
 - directory name, file name and package name
 - channel type
 - interface,struct and struct methods
+- channel and channel buffer for data send and receive.
