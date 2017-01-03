@@ -21,6 +21,7 @@
 - use default service to interact with kubernetes api 
 - generic api server as the base layer
 - legacy api and group api
+- container manager
 
 ### Package manager
 
