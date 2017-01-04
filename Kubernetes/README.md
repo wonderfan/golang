@@ -22,6 +22,7 @@
 - generic api server as the base layer
 - legacy api and group api
 - container manager
+- client and API interaction
 
 ### Package manager
 
