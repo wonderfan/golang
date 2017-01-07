@@ -25,6 +25,7 @@
 - client and API interaction
 - container runtime,docker service
 - docker shim and client
+- rkt shim and client
 
 ### Package manager
 
