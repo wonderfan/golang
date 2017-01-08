@@ -7,6 +7,8 @@
 - Union File System
 - Image Layer
 - Image and Container relationship
+- Image specification
+- Container specification
 
 ### Docker  CLI
 - docker  info
