@@ -26,6 +26,7 @@
 - container runtime,docker service
 - docker shim and client
 - rkt shim and client
+- proxy
 
 ### Package manager
 
