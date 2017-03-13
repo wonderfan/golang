@@ -43,4 +43,5 @@
 ### Installation
 
 - HA
+- Monitor
 
