@@ -16,6 +16,7 @@
 - docker version
 - docker ssh
 - docker exec
+- docker images
 
 ### Docker Compose
 
