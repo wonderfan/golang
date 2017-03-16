@@ -14,6 +14,8 @@
 - docker  info
 - docker build
 - docker version
+- docker ssh
+- docker exec
 
 ### Docker Compose
 
