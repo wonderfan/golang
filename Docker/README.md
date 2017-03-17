@@ -17,6 +17,7 @@
 - docker ssh
 - docker exec
 - docker images
+- docker attach
 
 ### Docker Compose
 
