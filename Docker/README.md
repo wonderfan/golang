@@ -5,7 +5,7 @@
 - Volume management
 - Image Store
 - Union File System
-- Image Layer
+- Image Layer: base layer and writable layer
 - Image and Container relationship
 - Image specification
 - Container specification
