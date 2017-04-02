@@ -48,4 +48,5 @@
 ### Monitoring
 
 - [prometheus](https://github.com/prometheus/prometheus)
+- [devops](https://github.com/fabric8io/fabric8-devops)
 
