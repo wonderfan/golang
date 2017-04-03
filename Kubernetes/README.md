@@ -1,4 +1,4 @@
-#Kubernetes Concepts and Practise
+# Kubernetes Concepts and Practise
 
 ### Project struture
 - three important directories: cmd,pkg and plugin
@@ -27,6 +27,7 @@
 - docker shim and client
 - rkt shim and client
 - proxy
+- ingress and ingress controller
 
 ### Package manager
 
