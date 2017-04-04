@@ -2,7 +2,7 @@
 
 ### Project struture
 - three important directories: cmd,pkg and plugin
-- kubelet and api
+- kubelet and kubectl
 - three runtimes: docker,rkt and remote
 - cloud providers
 - container runtime and manager
