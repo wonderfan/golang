@@ -18,6 +18,7 @@
 - docker exec
 - docker images
 - docker attach
+- docker create
 
 ### Docker Compose
 
