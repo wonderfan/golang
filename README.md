@@ -27,6 +27,7 @@ Container and Cluster Management
 - structure type
 - map type
 - array type
+- slice type
 - interface type
 - [struct embedding](https://github.com/luciotato/golang-notes/blob/master/OOP.md)
 - http: server,mux and handler
