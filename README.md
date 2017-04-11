@@ -43,6 +43,8 @@ Container and Cluster Management
 ### Go Compiler
 
 - how to implement
+- gcc go compiler
+- cgo
 
 ### Command Library
 
