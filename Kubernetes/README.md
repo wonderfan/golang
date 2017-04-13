@@ -40,6 +40,7 @@
 
 - flynn
 - tsuru
+- deis
 
 ### Installation
 
