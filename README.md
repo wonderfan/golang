@@ -39,6 +39,7 @@ Container and Cluster Management
 - channel and channel buffer for data send and receive.
 - embedded type and promoted method.
 - command line flag and parse
+- standard library
 
 ### Go Compiler
 
