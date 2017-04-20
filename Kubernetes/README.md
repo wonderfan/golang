@@ -1,6 +1,6 @@
 # Kubernetes Concepts and Practise
 
-### Project struture
+### Project Struture
 - three important directories: cmd,pkg and plugin
 - kubelet and kubectl
 - three runtimes: docker,rkt and remote
