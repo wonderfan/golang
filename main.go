@@ -7,5 +7,5 @@ import (
 )
 
 func main(){
-
+// use the main function to run other works;
 }
