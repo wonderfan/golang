@@ -29,7 +29,7 @@
 - proxy
 - ingress and ingress controller
 
-### Package manager
+### Package Manager
 
 - [helm-classic](https://github.com/helm/helm-classic)
 - [bitnami](https://github.com/bitnami/charts)
