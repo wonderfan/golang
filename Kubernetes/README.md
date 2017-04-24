@@ -42,7 +42,7 @@
 - tsuru
 - deis
 
-### Installation
+### Install and Setup
 
 - HA
 - Monitor
