@@ -12,7 +12,7 @@
         * use the kubernetes namespace,deployment and service resource on the basis of image build
     - The pipeline build:
         * how to trigger the build?
-
+    - Use the kubernetes job to do the command task;
 
 2. Ansible Integration
 
