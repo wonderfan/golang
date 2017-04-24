@@ -8,6 +8,10 @@
     - use the job kind resource to do the work
     - various agents for the detail work
     - REST API with the clients for key/value from background.
+    - The content of deployment:
+        * use the kubernetes namespace,deployment and service resource on the basis of image build
+    - The pipeline build:
+        * how to trigger the build?
 
 
 2. Ansible Integration
