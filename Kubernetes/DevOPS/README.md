@@ -14,7 +14,8 @@
         * how to trigger the build?
     - Use the kubernetes job to do the command task;
     - Leverage the key/value storage and contruct necessary data schema and models
-
+    - reshape the model on the base of existing models
+    
 2. Ansible Integration
 
     * the main point is to use ansible module to manage kubernetes's resources
