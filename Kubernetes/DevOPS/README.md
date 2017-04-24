@@ -14,7 +14,7 @@
         * how to trigger the build?
     - Use the kubernetes job to do the command task;
     - Leverage the key/value storage and contruct necessary data schema and models
-    - reshape the model on the base of existing models
+
     
 2. Ansible Integration
 
@@ -22,4 +22,9 @@
   
 3. [AppController](https://github.com/Mirantis/k8s-AppController) 
 
+    - reshape the model on the base of existing models
+    - use config map to define the dependencies and create the dependent graph
+    - run the dependent graph
+    
+    
 4. to-do-list
