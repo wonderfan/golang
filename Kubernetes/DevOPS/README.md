@@ -6,3 +6,4 @@
     - define the pipeline kind resource and specification;
     - use the job kind resource to do the work
     - various agents for the detail work
+    - REST API with the clients for key/value from background.
