@@ -13,6 +13,7 @@
     - The pipeline build:
         * how to trigger the build?
     - Use the kubernetes job to do the command task;
+    - Leverage the key/value storage and contruct necessary data schema and models
 
 2. Ansible Integration
 
