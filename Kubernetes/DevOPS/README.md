@@ -25,7 +25,13 @@
     - reshape the model on the base of existing models
     - use config map to define the dependencies and create the dependent graph
     - run the dependent graph
-    
+  
+4. [cycle-clone](https://github.com/caicloud/cyclone)
+
+  - use cmd and api for data acceptance;
+  - store for data persitence;
+  - workers for task execution;
+  - event for data insertion and update;
     
 4. to-do-list
 
