@@ -30,3 +30,4 @@
 4. to-do-list
 
   - [good article](https://github.com/debalin/devops-kubernetes)
+  - [deep introduction](https://www.qstack.com/devops-12-factor-application/)
