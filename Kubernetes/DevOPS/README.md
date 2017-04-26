@@ -3,10 +3,10 @@
 
 ## Existing Solution
 
-  ### Docker-Native-Solution
+### Docker-Native-Solution
   
-    * [docker-native-devops](existing_soution.md)
+  * [docker-native-devops](existing_soution.md)
     
-  ### K8S Based Solution
+### K8S Based Solution
     
-    * [fabric8](https://github.com/fabric8io/fabric8)
+  * [fabric8](https://github.com/fabric8io/fabric8)
