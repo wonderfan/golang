@@ -19,6 +19,7 @@
 - docker images
 - docker attach
 - docker create
+- docker label
 
 ### Docker Compose
 
