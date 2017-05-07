@@ -12,7 +12,7 @@
 
 ### Docker  CLI
 - docker  info
-- docker build
+- docker build --- build styles
 - docker version
 - docker ssh
 - docker exec
@@ -26,4 +26,5 @@
 - [docker-compose-ui](https://github.com/francescou/docker-compose-ui)
 - [shipyard](https://github.com/shipyard/shipyard)
 - [bocker](https://github.com/p8952/bocker)
+
 
