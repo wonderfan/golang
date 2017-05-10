@@ -28,6 +28,7 @@
 - rkt shim and client
 - proxy
 - ingress and ingress controller
+- deployment
 
 ### Package Manager
 
