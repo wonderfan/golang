@@ -29,6 +29,7 @@
 - proxy
 - ingress and ingress controller
 - deployment
+- secret
 
 ### Package Manager
 
