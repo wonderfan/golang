@@ -48,6 +48,7 @@
 
 - HA
 - Monitor
+- kubeadm
 
 ### Monitoring
 
