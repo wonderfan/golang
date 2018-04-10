@@ -25,8 +25,13 @@
   cat ~/.ssh/master.id_rsa.pub >> ~/.ssh/authorized_keys
   cp ~/.ssh/master.id_rsa cluster/ssh_key;
   ```
-  
-7. Run the install command
+ 
+7. Disable firewall
+  ```
+  systemctl stop firewalld
+  systemctl disable firewalld
+  ```
+8. Run the install command
   ```
   docker run -e LICENSE=accept  --net=host --rm -t -v "$(pwd)":/installer/cluster ibmcom/icp-inception:2.1.0.1-ee install
   ```
