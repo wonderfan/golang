@@ -3,6 +3,7 @@
 1. Download docker and images
   ```
   URL: http://pokgsa.ibm.com/projects/i/icp-2.1.0.1
+  Location: 9.123.114.44:/root/icp-installer
   ```
 2. Install docker
   ```
@@ -12,7 +13,6 @@
   ```
   tar xf ibm-cloud-private-x86_64-2.1.0.1.tar.gz -O | docker load
   ```
-
 4. Get the configuration files
   ```
   docker run -e LICENSE=accept --rm -v "$(pwd)":/data ibmcom/icp-inception:2.1.0.1-ee cp -r cluster /data
@@ -25,7 +25,6 @@
   cat ~/.ssh/master.id_rsa.pub >> ~/.ssh/authorized_keys
   cp ~/.ssh/master.id_rsa cluster/ssh_key;
   ```
- 
 7. Disable firewall
   ```
   systemctl stop firewalld
