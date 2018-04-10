@@ -10,12 +10,12 @@
   ```
 3. Load the images
   ```
-  tar xf ibm-cloud-private-x86_64-2.1.0.1.tar.gz -O | sudo docker load
+  tar xf ibm-cloud-private-x86_64-2.1.0.1.tar.gz -O | docker load
   ```
 
 4. Get the configuration files
   ```
-  docker run -e LICENSE=accept --rm -v "$(pwd)":/data ibmcom/icp-inception cp -r cluster /data
+  docker run -e LICENSE=accept --rm -v "$(pwd)":/data ibmcom/icp-inception:2.1.0.1-ee cp -r cluster /data
   ```
 5. Modify the host and config file
 
@@ -28,5 +28,5 @@
   
 7. Run the install command
   ```
-  docker run -e LICENSE=accept  --net=host --rm -t -v "$(pwd)":/installer/cluster ibmcom/icp-inception install
+  docker run -e LICENSE=accept  --net=host --rm -t -v "$(pwd)":/installer/cluster ibmcom/icp-inception:2.1.0.1-ee install
   ```
