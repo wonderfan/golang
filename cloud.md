@@ -18,7 +18,10 @@
   docker run -e LICENSE=accept --rm -v "$(pwd)":/data ibmcom/icp-inception:2.1.0.1-ee cp -r cluster /data
   ```
 5. Modify the host and config file
-
+  ```
+  change cluster_access_ip to floating ip
+  disabled_management_services: ["metering", "monitoring"]
+  ```
 6. Generate the ssh key
   ```
   ssh-keygen -b 4096 -t rsa -f ~/.ssh/master.id_rsa -N ""
