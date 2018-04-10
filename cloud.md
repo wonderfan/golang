@@ -26,7 +26,8 @@
   ```
   ssh-keygen -b 4096 -t rsa -f ~/.ssh/master.id_rsa -N ""
   cat ~/.ssh/master.id_rsa.pub >> ~/.ssh/authorized_keys
-  cp ~/.ssh/master.id_rsa cluster/ssh_key;
+  cd cluster
+  cp ~/.ssh/master.id_rsa ssh_key
   ```
 7. Disable firewall
   ```
@@ -35,5 +36,5 @@
   ```
 8. Run the install command
   ```
-  docker run -e LICENSE=accept  --net=host --rm -t -v "$(pwd)":/installer/cluster ibmcom/icp-inception:2.1.0.1-ee install
+  docker run -e LICENSE=accept --net=host --rm -t -v "$(pwd)":/installer/cluster ibmcom/icp-inception:2.1.0.1-ee install
   ```
