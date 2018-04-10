@@ -19,7 +19,7 @@
   ```
 5. Modify the host and config file
   ```
-  change cluster_access_ip to floating ip
+  change cluster_access_ip to floating IP
   disabled_management_services: ["metering", "monitoring"]
   ```
 6. Generate the ssh key
