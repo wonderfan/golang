@@ -1,3 +1,4 @@
+```
 # vim  /etc/yum.repos.d/kubernetes.repo
 [kubernetes] 
 name=Kubernetes 
@@ -82,4 +83,4 @@ curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s htt
 chmod +x ./kubectl;
 sudo mv ./kubectl /usr/local/bin/kubectl; 
 kubectl create clusterrolebinding apps-deployment --clusterrole=cluster-admin --serviceaccount=kube-system:default 
-
+```
