@@ -13,6 +13,9 @@ func main(){
   if err != nil {
 	fmt.Errorf("Could not read block %s", blockFile)
   }
-  fmt.Println(utils.GetChainIDFromBlockBytes(data))
-  fmt.Println(" get what we want")
+  block, err := utils.GetBlockFromBlockBytes(data)
+  if err != nil {
+    fmt.Errorf("Could not read block %s", err)
+  }
+	fmt.Println(block.String())
 }
