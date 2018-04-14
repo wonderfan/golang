@@ -11,7 +11,7 @@ func main(){
   blockFile := "/root/go/src/github.com/hyperledger/fabric/examples/e2e_cli/channel-artifacts/genesis.block"
   data, err := ioutil.ReadFile(blockFile)
 	if err != nil {
-		fmt.Errorf("Could not read block %s", inspectBlock)
+		fmt.Errorf("Could not read block %s", blockFile)
   }
   block, err := utils.UnmarshalBlock(data)
 	if err != nil {
