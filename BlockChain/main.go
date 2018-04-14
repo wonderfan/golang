@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
   "io/ioutil"
-  "github.com/hyperledger/fabric/protos/utils"
+  utils "github.com/hyperledger/fabric/protos/utils"
 )
 
 func main(){
