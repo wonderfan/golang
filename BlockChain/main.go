@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
   "io/ioutil"
-  utils "github.com/hyperledger/fabric/protos/utils"
+  "github.com/hyperledger/fabric/protos/utils"
 )
 
 func main(){
@@ -17,5 +17,5 @@ func main(){
   if err != nil {
     fmt.Errorf("Could not read block %s", err)
   }
-	fmt.Println(block.String())
+  fmt.Println(block.String())
 }
