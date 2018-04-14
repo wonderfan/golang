@@ -1,9 +1,9 @@
 package main
 
 import (
-"fmt"
+  "fmt"
 )
 
-func main(){
-fmt.Println("Write grpc client to interact with order service")
+func TestClient(){
+  fmt.Println("Write grpc client to interact with order service")
 }
