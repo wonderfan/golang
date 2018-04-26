@@ -29,6 +29,7 @@
   cd cluster
   cp ~/.ssh/master.id_rsa ssh_key
   ssh-copy-id -i ~/.ssh/master.id_rsa root@other-node-ip
+  ssh-keyscan 161.202.102.236 | sudo tee -a /root/.ssh/known_hosts
   ```
 7. Disable firewall
   ```
