@@ -14,4 +14,5 @@
 
 ### References
 
-- [IBM BlockChain](https://github.com/IBM-Blockchain-Archive/fabric-images)
+- [IBM BlockChain](https://github.com/IBM-Blockchain)
+- [IBM BlockChain Archive](https://github.com/IBM-Blockchain-Archive/fabric-images)
