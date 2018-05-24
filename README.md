@@ -54,6 +54,7 @@ Container and Cluster Management
 ### Playground
 
 - [katacoda](https://www.katacoda.com)
+- [wide](https://wide.b3log.org/playground)
 
 ### Protocol Buffer
 
