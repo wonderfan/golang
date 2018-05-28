@@ -1,4 +1,4 @@
-#!
+#!/user/bin/env bash
 
 # fix the compile errors
 yum install libtool-ltdl-devel
