@@ -49,6 +49,7 @@
 - HA
 - Monitor
 - kubeadm
+- [triton](https://github.com/joyent/triton-kubernetes)
 
 ### Monitoring
 
