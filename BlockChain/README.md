@@ -16,3 +16,4 @@
 
 - [IBM BlockChain](https://github.com/IBM-Blockchain)
 - [IBM BlockChain Archive](https://github.com/IBM-Blockchain-Archive/fabric-images)
+- [HyperLedger_Arch](https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf)
