@@ -8,6 +8,7 @@
 
 ### Cryptograph
 - [encryption](https://www.skcript.com/svr/end-to-end-encryption-hyperledger-fabric/)
+- [level-encrypt](https://github.com/tradle/level-encrypt)
 
 ### Deployment
 
