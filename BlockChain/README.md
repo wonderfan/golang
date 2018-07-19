@@ -16,6 +16,8 @@
 - [Chaincode-setup](https://github.com/hyperledger/fabric/blob/master/docs/Setup/Chaincode-setup.md)
 - [demo](http://www.cnblogs.com/huyouhengbc/p/5934683.html)
 - [hyperledger-fabric-ansible](https://github.com/introclass/hyperledger-fabric-ansible)
+- [hyperledger-ansible](https://github.com/keoja/hyperledger-ansible)
+- [helm](https://github.com/collins-b/opensource.com)
 
 ### References
 
