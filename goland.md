@@ -1,4 +1,4 @@
-###服务器地址:
+### 服务器地址:
 ```
 http://idea.imsxm.com/ 
 http://idea.youbbs.org 
