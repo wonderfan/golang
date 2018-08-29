@@ -7,3 +7,4 @@
 - [key transparency](https://github.com/google/keytransparency.git)
 - [tinychain](https://github.com/yyh1102/tinychain)
 - [consensus](http://ug93tad.github.io/consensus/)
+- [Publicly Verifiable Nominations Committee (NomCom) Random Selection](https://github.com/kyleroot/kleroterion)
