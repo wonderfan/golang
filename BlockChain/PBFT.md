@@ -12,3 +12,4 @@
 - [bazo-vm](https://github.com/bazo-blockchain/bazo-miner)
 - [secret-sharing](https://github.com/blockstack/secret-sharing)
 - [BLS](https://github.com/enzoh/go-bls)
+- [algorand](https://github.com/Aureliano98/Algorand)
