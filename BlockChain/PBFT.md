@@ -11,3 +11,4 @@
 - [concord-bft](https://github.com/vmware/concord-bft)
 - [bazo-vm](https://github.com/bazo-blockchain/bazo-miner)
 - [secret-sharing](https://github.com/blockstack/secret-sharing)
+- [BLS](https://github.com/enzoh/go-bls)
