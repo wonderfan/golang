@@ -13,3 +13,4 @@
 - [secret-sharing](https://github.com/blockstack/secret-sharing)
 - [BLS](https://github.com/enzoh/go-bls)
 - [algorand](https://github.com/Aureliano98/Algorand)
+- [bft-smart](https://github.com/bft-smart/library)
