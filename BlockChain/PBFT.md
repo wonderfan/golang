@@ -21,3 +21,4 @@
 - [bft-mit](https://github.com/linpelvis/bft-mit)
 - [open-chain](https://github.com/OpenFuturePlatform/open-chain)
 - [bft](https://github.com/anhnguyentrung/bft)
+- [bbft](https://github.com/satellitex/bbft)
