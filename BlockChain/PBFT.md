@@ -16,3 +16,4 @@
 - [bft-smart](https://github.com/bft-smart/library)
 - [BFT-MIT](https://github.com/oldsharp/bft)
 - [library](https://github.com/pandoraboxchain/library)
+- [hyperledger-fabric-bftsmart](https://github.com/datlv/hyperledger-fabric-bftsmart)
