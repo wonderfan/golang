@@ -18,3 +18,4 @@
 - [library](https://github.com/pandoraboxchain/library)
 - [hyperledger-fabric-bftsmart](https://github.com/datlv/hyperledger-fabric-bftsmart)
 - [Consensus](https://github.com/osmirnov/Consensus)
+- [bft-mit](https://github.com/linpelvis/bft-mit)
