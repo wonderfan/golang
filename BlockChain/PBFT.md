@@ -23,3 +23,4 @@
 - [bft](https://github.com/anhnguyentrung/bft)
 - [bbft](https://github.com/satellitex/bbft)
 - [BFTRaft4go](https://github.com/PomeloCloud/BFTRaft4go)
+- [bft](https://github.com/Honglei-Cong/bft)
