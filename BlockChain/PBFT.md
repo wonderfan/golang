@@ -22,3 +22,4 @@
 - [open-chain](https://github.com/OpenFuturePlatform/open-chain)
 - [bft](https://github.com/anhnguyentrung/bft)
 - [bbft](https://github.com/satellitex/bbft)
+- [BFTRaft4go](https://github.com/PomeloCloud/BFTRaft4go)
