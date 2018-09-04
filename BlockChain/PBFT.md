@@ -20,3 +20,4 @@
 - [Consensus](https://github.com/osmirnov/Consensus)
 - [bft-mit](https://github.com/linpelvis/bft-mit)
 - [open-chain](https://github.com/OpenFuturePlatform/open-chain)
+- [bft](https://github.com/anhnguyentrung/bft)
