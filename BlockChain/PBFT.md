@@ -24,3 +24,4 @@
 - [bbft](https://github.com/satellitex/bbft)
 - [BFTRaft4go](https://github.com/PomeloCloud/BFTRaft4go)
 - [bft](https://github.com/Honglei-Cong/bft)
+- [Byzantine set-union consensus using efficient set reconciliation](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-017-0066-3)
