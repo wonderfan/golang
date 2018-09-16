@@ -25,3 +25,4 @@
 - [BFTRaft4go](https://github.com/PomeloCloud/BFTRaft4go)
 - [bft](https://github.com/Honglei-Cong/bft)
 - [Byzantine set-union consensus using efficient set reconciliation](https://jis-eurasipjournals.springeropen.com/articles/10.1186/s13635-017-0066-3)
+- [拜占庭系统技术研究综述](https://wenku.baidu.com/view/defa0c1458fafab068dc025b.html)
