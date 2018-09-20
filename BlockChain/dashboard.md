@@ -10,3 +10,4 @@
 8. [hyperledger-fabric-orderer](https://github.com/koki/hyperledger-fabric-orderer)
 9. [HyperledgerIdentityManagement](https://github.com/EthVentures/HyperledgerIdentityManagement)
 10. [fabric-antd-admin](https://github.com/davidkhala/fabric-antd-admin)
+11. [fabric-react-admin](https://github.com/davidkhala/fabric-react-admin)
