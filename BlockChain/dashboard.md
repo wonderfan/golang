@@ -9,3 +9,4 @@
 7. [blockchain-supply-chain](https://github.com/mattdean1/blockchain-supply-chain)
 8. [hyperledger-fabric-orderer](https://github.com/koki/hyperledger-fabric-orderer)
 9. [HyperledgerIdentityManagement](https://github.com/EthVentures/HyperledgerIdentityManagement)
+10. [fabric-antd-admin](https://github.com/davidkhala/fabric-antd-admin)
