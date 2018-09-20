@@ -5,3 +5,5 @@
 3. [PDFs](https://github.com/tyrchen/unchained)
 4. [centralbank](https://github.com/openblockchains/centralbank)
 5. [Build-Multi-Host-Network-Hyperledger](https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger)
+6. [fabric-jdbc-connector](https://github.com/Impetus/fabric-jdbc-connector)
+7. [blockchain-supply-chain](https://github.com/mattdean1/blockchain-supply-chain)
