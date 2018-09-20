@@ -11,4 +11,4 @@
 9. [HyperledgerIdentityManagement](https://github.com/EthVentures/HyperledgerIdentityManagement)
 10. [fabric-antd-admin](https://github.com/davidkhala/fabric-antd-admin)
 11. [fabric-react-admin](https://github.com/davidkhala/fabric-react-admin)
-12. [HyperledgerFabricAngular](https://github.com/jeroenouw/HyperledgerFabricAngular)
+12. [Hyperledger-Fabric-Angular](https://github.com/jeroenouw/HyperledgerFabricAngular)
