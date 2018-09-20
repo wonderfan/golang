@@ -8,4 +8,4 @@
 6. [fabric-jdbc-connector](https://github.com/Impetus/fabric-jdbc-connector)
 7. [blockchain-supply-chain](https://github.com/mattdean1/blockchain-supply-chain)
 8. [hyperledger-fabric-orderer](https://github.com/koki/hyperledger-fabric-orderer)
-9. 
+9. [HyperledgerIdentityManagement](https://github.com/EthVentures/HyperledgerIdentityManagement)
