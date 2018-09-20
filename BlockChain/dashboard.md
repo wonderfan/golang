@@ -7,3 +7,4 @@
 5. [Build-Multi-Host-Network-Hyperledger](https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger)
 6. [fabric-jdbc-connector](https://github.com/Impetus/fabric-jdbc-connector)
 7. [blockchain-supply-chain](https://github.com/mattdean1/blockchain-supply-chain)
+8. [hyperledger-fabric-orderer](https://github.com/koki/hyperledger-fabric-orderer)
