@@ -12,3 +12,4 @@
 10. [fabric-antd-admin](https://github.com/davidkhala/fabric-antd-admin)
 11. [fabric-react-admin](https://github.com/davidkhala/fabric-react-admin)
 12. [Hyperledger-Fabric-Angular](https://github.com/jeroenouw/HyperledgerFabricAngular)
+13. [koa-react](https://github.com/dozoisch/koa-react-full-example)
