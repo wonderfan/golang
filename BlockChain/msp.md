@@ -1,3 +1,4 @@
+```
 org1.example.com
 ├── ca                    # 根CA的私钥和证书
 │   ├── 0e729224e8b3f31784c8a93c5b8ef6f4c1c91d9e6e577c45c33163609fe40011_sk                                     
@@ -80,3 +81,4 @@ org1.example.com
             └── server.key
 
 ---------------------
+```
