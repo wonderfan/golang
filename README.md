@@ -40,6 +40,7 @@ Container and Cluster Management
 - embedded type and promoted method.
 - command line flag and parse
 - standard library
+- [crypto](https://leanpub.com/gocrypto/read)
 
 ### Go Compiler
 
