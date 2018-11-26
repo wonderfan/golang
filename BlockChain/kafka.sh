@@ -18,3 +18,11 @@ docker run -d -p 2181:2181 -p 2888:2888 -p 3888:3888 hyperledger/fabric-zookeepe
 docker run -d -p 9092:9092 -e "KAFKA_ZOOKEEPER_CONNECT=39.104.189.169:2181,39.104.145.229:2181" \
 hyperledger/fabric-kafka
 
+docker run -d --name zookeeper0 --hostname zookeeper0 -e "ZOO_MY_ID=1" \
+-e "ZOO_SERVERS=server.1=zookeeper0:2888:3888 server.2=39.104.189.169:2888:3888" \
+-p 2181:2181 -p 2888:2888 -p 3888:3888 hyperledger/fabric-zookeeper
+
+docker run -d --name zookeeper1 --hostname zookeeper1 -e "ZOO_MY_ID=2" \
+-e "ZOO_SERVERS=server.1=39.104.145.229:2888:3888 server.2=zookeeper1:2888:3888" \
+-p 2181:2181 -p 2888:2888 -p 3888:3888 hyperledger/fabric-zookeeper
+
