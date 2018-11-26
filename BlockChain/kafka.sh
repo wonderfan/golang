@@ -14,3 +14,5 @@ docker run -d --name zookeeper1 --add-host zookeeper0.example.com:39.104.145.229
 39.104.145.229  zookeeper0.example.com
 
 docker run -d -p 2181:2181 -p 2888:2888 -p 3888:3888 hyperledger/fabric-zookeeper
+
+docker run -d -p 9092 -p 9093:9093 -e "KAFKA_ZOOKEEPER_CONNECT=0.0.0.0:2181" hyperledger/fabric-kafka
