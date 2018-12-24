@@ -1,7 +1,9 @@
 # Create Project Skeleton
 
-## Install Go vendor
+## Go vendor
 
 ```
 go get -u github.com/kardianos/govendor
+govendor init
 ```
+
