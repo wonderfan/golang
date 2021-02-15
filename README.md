@@ -60,6 +60,7 @@ Container and Cluster Management
 
 - [katacoda](https://www.katacoda.com)
 - [wide](https://wide.b3log.org/playground)
+- [Rust](https://play.rust-lang.org/)
 
 ### Protocol Buffer
 
