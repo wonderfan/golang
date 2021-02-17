@@ -7,3 +7,6 @@ mv go /usr/local
 export GOPATH=$HOME/go
 export GOROOT=/usr/local/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+export GOPROXY="https://goproxy.cn"
+
+mkdir -p $HOME/go/src/github.com
