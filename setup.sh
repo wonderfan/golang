@@ -11,6 +11,7 @@ export GOPROXY="https://goproxy.cn"
 
 mkdir -p $HOME/go/src/github.com
 
-// install node.js
+# install node.js
 
 curl -sL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+apt-get install -y nodejs
