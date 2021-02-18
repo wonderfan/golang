@@ -10,3 +10,7 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 export GOPROXY="https://goproxy.cn"
 
 mkdir -p $HOME/go/src/github.com
+
+// install node.js
+
+curl -sL https://deb.nodesource.com/setup_current.x | sudo -E bash -
