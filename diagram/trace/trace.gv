@@ -1,21 +1,18 @@
 digraph {
-    subgraph cluster_start {
-        edge [label=1]
-        fn_start -> fn_start_trace
-        edge [label=2]
-        fn_start -> st_go_routine
-        edge [label=3]
-        st_go_routine -> st_for_loop
-        edge [label=4]
-        st_for_loop -> fn_read_trace       
-    }
+
+    // function start
+    fn_start -> fn_start_trace
+    fn_start -> st_go_routine
+    st_go_routine -> st_for_loop
+    st_for_loop -> fn_read_trace
+    fn_start_trace -> fn_stop_world_gc
+    fn_start_trace -> fn_trace_proc_start
+    fn_start_trace -> fn_go_trace_start
     
-    subgraph cluster_stop {
-        edge [label=1]
-        fn_stop -> fn_lock
-        edge [label=2]
-        fn_stop -> fn_stop_trace
-        edge [label=3]
-        fn_stop -> fn_unlock
-    }
+    //function stop
+    fn_stop -> fn_lock
+    fn_stop -> fn_stop_trace
+    fn_stop -> fn_unlock
+    fn_stop_trace -> fn_stop_world_gc
+    
 }
