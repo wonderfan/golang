@@ -1,1 +1,9 @@
-
+digraph runtime {
+    fontsize = 18
+    label = "Runtime Package"
+    folder_trace [label="runtime/trace"]
+    node [shape=rectangle width="1.2px"]
+    file_annotation [label="annotation.go"]
+    file_trace [label="trace.go"]
+    folder_trace -> {file_annotation, file_trace}
+}
