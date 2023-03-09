@@ -1,1 +1,21 @@
-
+digraph {
+    subgraph cluster_start {
+        edge [label=1]
+        fn_start -> fn_start_trace
+        edge [label=2]
+        fn_start -> st_go_routine
+        edge [label=3]
+        st_go_routine -> st_for_loop
+        edge [label=4]
+        st_for_loop -> fn_read_trace       
+    }
+    
+    subgraph cluster_stop {
+        edge [label=1]
+        fn_stop -> fn_lock
+        edge [label=2]
+        fn_stop -> fn_stop_trace
+        edge [label=3]
+        fn_stop -> fn_unlock
+    }
+}
