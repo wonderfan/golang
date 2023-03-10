@@ -29,4 +29,15 @@ erDiagram
         profBuf cpuLogWrite 
     }
 ```
+```mermaid
+erDiagram
+    "Trace Buf Header Structure" {
+        traceBufPtr link
+        uint64 lastTicks
+        int pos
+        uintptr stk
+    }
+```
+```mermaid
 
+```
